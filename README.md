@@ -1,6 +1,5 @@
-## About NIDA DMS(DOCUMENTS MANAGEMENT SYSTEM)
+## About E-COMMERCE-BACKEND-APP
 
-NIDA DMS Is a project Which helps NIDA(National Identification Agency) To Keep their files in a digital way..
 
 After cloning the project:
 
